@@ -1,0 +1,9 @@
+name: Plugin
+version: '${project.version}'
+main: plugin.Ozyris.Plugin
+api-version: 1.18
+authors: [ Ozyris ]
+commands:
+  mp:
+    description: mp un joueur avec couleur
+  
